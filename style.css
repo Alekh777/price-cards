@@ -4,6 +4,15 @@
     margin: 0px;
 }
 
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: rgb(151, 0, 151);
+    border-radius: 35px;
+}
+
 #container{
     background-color: white;
     border-radius: 5px;
