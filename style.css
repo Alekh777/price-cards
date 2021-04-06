@@ -68,11 +68,8 @@
         margin: 25px 0px 25px 25px;
     }
     #container>div:last-child{
-        margin-left: 0px;
-        position: absolute;
-        left: 50%;
-        top: 525px;
-        transform: translateX(-50%);
+        margin: 0px auto;
+        margin-left: 187.5px;
     }
 }
 
