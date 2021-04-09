@@ -4,6 +4,12 @@
     margin: 0px;
 }
 
+body{
+    height: 100vh;
+    background: linear-gradient(rgb(236, 254, 255), white);
+    background-repeat: no-repeat;
+}
+
 ::-webkit-scrollbar{
     width: 10px;
 }
@@ -14,7 +20,7 @@
 }
 
 #container{
-    background-color: white;
+    background-color: transparent;
     border-radius: 5px;
     position: absolute;
 }
